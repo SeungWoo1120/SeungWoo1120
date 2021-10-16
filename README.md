@@ -12,6 +12,4 @@ I'm SeungWoo Cha, a beginner data analyst in South Korea. <br> I am mainly study
 </br>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=seungwoo1120&show_icons=True&theme=vue)
-
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seungwoo1120&layout=compact)](https://github.com/seungwoo1120/github-readme-stats)
