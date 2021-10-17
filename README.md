@@ -11,5 +11,4 @@ I'm SeungWoo Cha, a beginner data analyst in South Korea. <br> I am mainly study
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rnrghs@kpu.ac.kr)](mailto:rnrghs@kpu.ac.kr)
 </br>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=seungwoo1120&show_icons=True&theme=vue)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seungwoo1120&layout=compact)](https://github.com/seungwoo1120/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=seungwoo1120&show_icons=True&theme=vue)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seungwoo1120&layout=compact)](https://github.com/seungwoo1120/github-readme-stats)
